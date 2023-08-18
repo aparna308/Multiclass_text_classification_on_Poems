@@ -1,5 +1,5 @@
 Goal- 
-The dataset contains poems and their genre. Their are 4 genres in the dataset- Music, Death, Environment, Affection. Make a multiclass classification, which will predict the genre of the poem by analyzing the poem.
+The dataset contains poems and their genre. Their are 4 genres in the dataset- Music, Death, Environment, Affection. Make a multiclass classification model, which will predict the genre of the poem by analyzing the poem.
 
 
 Solution Approach- 
