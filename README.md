@@ -43,5 +43,6 @@ This way, 10 models are made-
 7. Hyperparameter tuned LogisticRegression
 8. Default Logistic Regression
 9. Hyperparameter tuned XGBooost
-10.Default XGBoost
+10. Default XGBoost
+    
 Each model is evaluted using classification matrix and accuracy.
